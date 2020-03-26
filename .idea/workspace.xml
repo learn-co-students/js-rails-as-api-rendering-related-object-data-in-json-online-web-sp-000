@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d509ce1a-18bc-466d-ab8b-0ea5418d1d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js-rails-as-api-rendering-related-object-data-in-json-online-web-sp-000.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/sightings.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/sightings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/sightings_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/sightings_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/location.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/sighting.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20200326193128_create_locations.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20200326193232_create_sightings.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/sightings_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/locations.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/sightings.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/location_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/sighting_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/bird.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/bird.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/sightings_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/sightings_controller.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585250387306</updated>
       <workItem from="1585250390694" duration="1993000" />
-      <workItem from="1585252405919" duration="3333000" />
+      <workItem from="1585252405919" duration="3709000" />
     </task>
     <servers />
   </component>
