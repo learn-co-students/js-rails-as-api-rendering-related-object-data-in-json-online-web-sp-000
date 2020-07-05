@@ -1,0 +1,2 @@
+module LongitudesHelper
+end
