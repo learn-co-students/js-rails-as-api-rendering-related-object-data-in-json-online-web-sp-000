@@ -12,7 +12,7 @@ render to JSON in our basic Rails API. But what if we want to be _inclusive_
 rather than selective? With Rails models, we're often dealing with many
 different related objects. Using `include` when rendering JSON, our API can send
 data about one resource along with data about its associated resources.
-
+22
 In this lesson, we will look at how our Rails API will be able to convey
 relationships between multiple models in a single JSON object. In order to fully
 understand `include`, however, we'll need to expand our example domain so
