@@ -1,4 +1,4 @@
-# Rendering Related Data in JSON Using Rails
+# Rendering Related Data in JSON Using Rails Ariel
 
 ## Learning Goals
 
